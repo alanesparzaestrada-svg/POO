@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos (POO)
 
-Este repositorio ha sido creado con la finalidad de almacenar, organizar y documentar todas las actividades, prácticas de código y archivos desarrollados a lo largo de la asignatura de POO en Python.
+Este repositorio ha sido creado con la finalidad de almacenar, organizar y documentar todas las actividades, prácticas de código y archivos desarrollados a lo largo de la asignatura de DOC.Daniel Armando Rios en Python.
 
 ## Datos del Alumno
 
